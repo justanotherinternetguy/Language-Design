@@ -1,5 +1,8 @@
 // UNFINISHED AND REALLY DUMB IMPLEMENTATION OF BRAINF*** WITHOUT ANY GOING BACK :)
-
+/* 
+ * PRINT "HI"
+ * up-up-up-up-up-up-up-up-up-up-up-up-up-up-up-up-up-up-up-up-down-down-down-down-down-down-down-down-down-down-down-down-down-down-down-down-down-down-down-down-down-down-down-down-down-down-down-down-down-down-down-down-down-down-down-down-down-down-down-down-out-next-up-up-up-up-up-up-up-up-up-up-up-up-up-up-up-up-up-up-up-up-down-out
+*/
 
 #include <bits/stdc++.h>
 
