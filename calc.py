@@ -1,3 +1,5 @@
+# TODO: Order of operations, ()
+
 INTEGER, PLUS, MINUS, TIMES, DIVIDE, EOF = 'INTEGER', 'PLUS', 'MINUS', 'TIMES', 'DIVIDE', 'EOF'
 
 class Token(object):
