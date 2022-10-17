@@ -1,10 +1,11 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include "mpc.h"
 
 #ifdef _WIN32
 #include <string.h>
 
-static char bufer[2048];
+static char buffer[2048];
 
 // Fake readline func
 char* readline(char* prompt) {
